@@ -1,0 +1,11 @@
+name: shiny-marquenis
+title:
+username:
+account: marquenis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5215794
+bundleId: 5300662
+url: https://marquenis.shinyapps.io/shiny-marquenis/
+when: 1638070099.39539
+lastSyncTime: 1638070099.39541
