@@ -31,7 +31,7 @@ or 2) decreasing nutrition levels.
 The 5 treatments in this experiment are 24C medium nutrition, 24C high 
 nutrition, 24C low nutrition, 30C medium nutrition, and 18C medium nutrition. 
 
-##### Data acknowledgement
+#### Data acknowledgement
 This data was collected during the summer of 2020 by a work-learn student, 
 Ernest Liang. Both Ernest and I are now working together to analyze and 
 publish our findings. 
